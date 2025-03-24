@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #f1f1f1;
+    font-family: Arial, sans-serif;
+}
+body{
+    height: 100vh;
+}
+h1 {
+    text-align: center;
+}
+.author-info {
+    font-size: 14px;
+    text-align: center;
+    margin-top: 16px;
+    color: rgb(55, 65, 81);
+  }
+
+  .author-info a {
+    text-decoration: none;
+  }
