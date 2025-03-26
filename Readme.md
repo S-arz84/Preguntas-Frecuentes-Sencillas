@@ -63,5 +63,5 @@ DevChallenges.io me apoyo a poder aprender mas y de forma mas formal. Mimo.org m
 
 ## Author
 
-- Website [your-website.com](https://{your-web-site-link})
+- Website [your-website.com](https://preguntas-frecuentes-sencillas.vercel.app)
 - GitHub [@S-arz84](https://github.com/S-arz84)
